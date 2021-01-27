@@ -13,6 +13,9 @@ body {
 
 .content{
   min-height: calc(100vh - 100px);
+  margin: auto;
+  width: 720px;
+  max-width: 100%;
 }
 
 .footer{
